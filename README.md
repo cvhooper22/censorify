@@ -1,0 +1,1 @@
+The censorify module simply accepts any custom words that you want censored and then will replace those words with asterisks when the censor function is called.  This was created as part of a tutorial for my CS 360 class and code was taken from Brad Dayley's "Node.js, MongoDB and AngularJS Web Development" book.
